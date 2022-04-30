@@ -4,7 +4,7 @@ SPREAD BOOTCAMP FULLSTACK  :rocket:
 
 DESAFIO: CRIAR UMA CÓPIA DA PÁGINA DE LOGIN DO INSTAGRAM
 
-Nesse desafio utilizei HTML e Felxbox CSS. 
+Nesse desafio utilizei HTML e Flexbox CSS. 
 
 
 
